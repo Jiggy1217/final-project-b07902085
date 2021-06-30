@@ -1,6 +1,6 @@
 package com.lovingshiba.view;
 
-import com.lovingshiba.Audio.AudioPlayer;
+import com.lovingshiba.audio.AudioPlayer;
 import com.lovingshiba.controller.Controller;
 import com.lovingshiba.model.*;
 

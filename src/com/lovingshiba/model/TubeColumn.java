@@ -1,7 +1,7 @@
 
 package com.lovingshiba.model;
 
-import com.lovingshiba.Audio.AudioPlayer;
+import com.lovingshiba.audio.AudioPlayer;
 import com.lovingshiba.view.Window;
 import java.awt.Graphics2D;
 

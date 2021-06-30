@@ -1,4 +1,4 @@
-package com.lovingshiba.Audio;
+package com.lovingshiba.audio;
 
 import javax.sound.sampled.*;
 

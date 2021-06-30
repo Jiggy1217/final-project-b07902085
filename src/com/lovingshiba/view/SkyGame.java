@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package com.lovingshiba.view;
-import com.lovingshiba.Audio.AudioPlayer;
+import com.lovingshiba.audio.AudioPlayer;
 import com.lovingshiba.controller.Controller;
 import com.lovingshiba.model.SkyShiba;
 import com.lovingshiba.model.Tube;
@@ -38,7 +38,6 @@ public class SkyGame extends Game {
     private boolean isPass = false;
     private GameKeyAdapter keyAdapter= new com.lovingshiba.view.SkyGame.GameKeyAdapter();
     private AudioPlayer winMusic = new AudioPlayer("/assets/round1/audio/win.wav");
-
 
     private int winScore = 15;
     private boolean win = false;
